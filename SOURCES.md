@@ -19,7 +19,6 @@ Where every file came from. All copied on 14-11-2026 unless stated otherwise. "L
 | `building-the-os/_*.md` | Claude Vault `Building the OS Book/` | 05 to 06-2026 | This repo |
 | `building-the-os/sources/master-narrative.md` | agentic-os `docs/master-narrative-v0.1.md` (v0.2) | 14-06-2026, repo at 10-11-2026 | **agentic-os** (nightly build owns it) |
 | `building-the-os/sources/the-story-what-we-built.md` | Google Drive `perspect-if/the-story-what-we-built.md` | 26-03-2026 | Frozen snapshot |
-
 | `second-renaissance/sources/michaeljdawkins-com/heros-journey-2021.md` | Google Doc "Michael J. Dawkins's Hero's Journey" | 20-03-2021 | Frozen snapshot |
 | `second-renaissance/sources/michaeljdawkins-com/personal-manifesto-2021.md` | Google Drive "Michael J Dawkins's Manifesto.docx" | 04-03-2021 | Frozen snapshot |
 | `second-renaissance/sources/michaeljdawkins-com/bios-2022.md` | Google Doc "Bio's Michael J Dawkins" | 28-07-2022 | Frozen snapshot |
