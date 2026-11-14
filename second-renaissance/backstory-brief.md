@@ -23,3 +23,11 @@ A teenager who found in festivals and substances a love and connection he couldn
 
 ## One date to check with Michael
 He dates the start of his awakening to 2006. The vault places the first opening earlier (NLP and Tolle, 2004 to 2005) and the burnout in 2006 to 2007. That could mean 2006 is when it became real rather than conceptual. Needs his word.
+
+## Added 14-11-2026: the michaeljdawkins.com material (2021 to 2022)
+- `sources/michaeljdawkins-com/heros-journey-2021.md`: Michael's own first-person account, written around 20-03-2021. **The strongest backstory source found so far.** It confirms his own dating ("My own path of awakening ... started around 2006. With one of my biggest gifts, a burn-out. And I was only 26!"), and tells in his own voice: the dropout who couldn't quit, the pharma job, the Adonis complex and one steroid course, the substances, three days on the couch, friends driving 60 km and each giving him 50 euros, the Power of Now clicking while feverish at his parents' house ("I am in the now!!!"), A New Earth, the headhunting job as "people trafficker", the first coaching client. Two stories are marked "story to come".
+- `personal-manifesto-2021.md`: "So let's change the story." The inner-world-creates-outer-world thesis, five years before Ex Fontes.
+- `bios-2022.md`: official bios from the ShaeVitality period.
+- Also on Drive, not copied: framework images (Realizers, Healers, Energizers, 18-03-2021), Dutch deck "Leef jouw eigen leven" (20-09-2022), the "Michael J Dawkins" business folder (clients, challenges, MarCom).
+
+**Correction:** the 2006 date is Michael's own, from 2021. The vault's 2004 to 2005 dates are for the NLP and Tolle beginnings, which his Hero's Journey places inside the burnout period.
