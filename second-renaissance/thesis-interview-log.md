@@ -33,3 +33,9 @@ Running record of the thesis interview. Building from Ex Fontes (the 13-03-2026 
 **Michael (confirmed):** the fellow traveller a few steps ahead, and one who has been working on understanding and healing himself, and so the world around him, since his awakening began in 2006. His own backstory is a very important part of the book (series).
 
 **Claude:** backstory sources gathered in `backstory-brief.md`. Date to check: the vault places the first opening in 2004 to 2005 (NLP, Tolle) and the burnout in 2006 to 2007.
+
+## Q4: how open about the hard parts (14-11-2026)
+
+**Michael (confirmed):** super open. Telling the truth is part of the healing journey, for himself and for readers. There is more to tell than the sources hold.
+
+**Claude:** agreed, with one guard rail: radical honesty about Michael's own life, care about other people in the story (former partners, the employer, family, Ila). Write it raw first; decide what reaches the page chapter by chapter. Next: Michael tells the story in his own words, starting with the burnout.
