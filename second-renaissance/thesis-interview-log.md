@@ -39,3 +39,12 @@ Running record of the thesis interview. Building from Ex Fontes (the 13-03-2026 
 **Michael (confirmed):** super open. Telling the truth is part of the healing journey, for himself and for readers. There is more to tell than the sources hold.
 
 **Claude:** agreed, with one guard rail: radical honesty about Michael's own life, care about other people in the story (former partners, the employer, family, Ila). Write it raw first; decide what reaches the page chapter by chapter. Next: Michael tells the story in his own words, starting with the burnout.
+
+## Paused 15-11-2026: where we left off
+
+Michael paused the interview to pick it up when the book needs it.
+
+- **Confirmed so far:** split is the root (B), idealism as the floor; reader is Gen Z; Michael as fellow traveller on his path since 2006; fully open about his own story, careful with others in it.
+- **Still draft:** the one-sentence thesis (v3), structure, title.
+- **Next question (Q5):** the two "story to come" moments from the 2021 Hero's Journey (the call to the first coaching client's company, how that client came), or the part it leaves out (the boss and the police at the door). Voice notes welcome.
+- **Not yet copied from Drive:** framework images (Realizers, Healers, Energizers, 2021) and the deck "Leef jouw eigen leven" (2022).
